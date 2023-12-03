@@ -1,0 +1,40 @@
+# Basic wire, direct link true to output.
+#
+# TRUE ---> OUTPUT
+
+
+
+
+
+true  in# TRUE ---> OUTPUT# TRUE ---> OUTPUT# TRUE ---> OUTPUT
+output out# TRUE ---> OUTPUT# TRUE ---> OUTPUT# TRUE ---> OUTPUT
+
+
+
+
+
+
+
+
+output                              out2# TRUE ---> OUTPUT# TRUE ---> OUTPUT# TRUE ---> OUTPUT
+
+
+
+
+
+
+
+
+
+# TRUE ---> OUTPUT# TRUE ---> OUTPUT# TRUE ---> OUTPUT
+.links:# TRUE ---> OUTPUT# TRUE ---> OUTPUT# TRUE ---> OUTPUT
+
+
+
+
+
+
+
+in:1 out2:1# TRUE ---> OUTPUT# TRUE ---> OUTPUT# TRUE ---> OUTPUT
+
+# TRUE ---> OUTPUT# TRUE ---> OUTPUT# TRUE ---> OUTPUT

@@ -1,0 +1,35 @@
+# Declare components
+.chipsets: #ici les chipsets
+
+# <chipset> <name>
+# The name is up to you
+# Example :
+.chipsets: #ici les chipsets
+input                                                        i1
+output  s1
+4081    and
+# ...then link the 'links' section
+
+
+
+
+
+
+
+
+
+
+
+
+
+.links:#hzhcei
+# <chipset_name1>:<pin1> <chipset_name2>:<pin2>
+# Example :
+i1:1                 and:1 : :# Example :
+# Example :
+s1 - 1    and:3               #and3
+
+
+
+
+
